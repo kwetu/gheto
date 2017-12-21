@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.radio.kwetu"
+        id          = "com.princess.kwetu"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <name>Ghetto Radio</name>
 
     <description>
-        A radio app for streaming radio and news from kenyas leading hit radio station
+       t's a Princess Affair is a one-stop shopping site for ladies country-wide. Our aim-To bring out your inner beauty to the world, and guess what? It's all within your budget! We have everything for everyone; regardless of your shape, size, taste, preference, etc. Get to shopping!
     </description>
 
     <author href="https://kwetudesign.co.ke" email="kwetudesign@gmail.com">
